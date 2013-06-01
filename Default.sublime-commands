@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Chrome Refresh: Refresh the active Chrome tab",
+        "command": "chrome_refresh"
+    },
+    {
+        "caption": "Chrome Refresh: Enable",
+        "command": "chrome_refresh_enable"
+    },
+    {
+        "caption": "Chrome Refresh: Disable",
+        "command": "chrome_refresh_disable"
+    },
+    {
+        "caption": "Chrome Refresh: Set Url",
+        "command": "chrome_refresh_set_url"
+    }
+]

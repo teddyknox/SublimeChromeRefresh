@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "Chrome Refresh",
+			"description": "Refresh Chrome from Sublime Text manually or automatically.",
+			"author": "Teddy Knox",
+			"homepage": "https://github.com/teddyknox/SublimeChromereFresh",
+			"last_modified": "2013-6-1 00:00:00",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.1.0",
+						"url": "https://nodeload.github.com/your_github_username/your_repository_name/zip/your_tag_name_here"
+					}
+				]
+			}
+		}
+	]
+}
