@@ -1,5 +1,5 @@
 # Sublime Text Chrome Auto Refresh
-### Refresh Chrome without losing window focus of Sublime text
+### Refresh Chrome without losing window focus of Sublime Text
 
 Compatible with OSX and Chrome only.
 
