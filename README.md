@@ -10,6 +10,6 @@ Chrome Refresh has two settings for each window that determine how it behaves:
 
 `command+shift+r` forces a refresh of the specified page.
 
-To compile teh applescripts:
+To compile the applescripts:
 
     osacompile -o chromeopen.scpt chromeopen.AppleScript
